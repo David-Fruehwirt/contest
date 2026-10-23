@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "archive_sha256": "68028ccc16743f7772634fe4ec7b1cb53249108359a742dac1e3beecf5a5e672",
+  "files": [
+    {
+      "path": "files/in_level-3_0-example.txt",
+      "bytes": 151,
+      "sha256": "aad6cf6efb56a4ad587b740ecaf2f59d7070ad1e2f34668e2f1c42e5c4b3de08"
+    },
+    {
+      "path": "files/in_level-3_1-small.txt",
+      "bytes": 9936,
+      "sha256": "363be7d6f9b8493513fd6a088dfc1c42e92d2500cec18c5bfc80e4325896575f"
+    },
+    {
+      "path": "files/in_level-3_2-medium.txt",
+      "bytes": 10469,
+      "sha256": "9e053c22305d6019d2b64ad78c8720e4409c5a3f9972a39f33937a688a98ae80"
+    },
+    {
+      "path": "files/in_level-3_3-large.txt",
+      "bytes": 13063,
+      "sha256": "b10f32dda8fed5ed8537d068f3e6e286501b9ab2f378a4998edb28814f668f3a"
+    },
+    {
+      "path": "files/in_level-3_4-enormous.txt",
+      "bytes": 15568,
+      "sha256": "2ce5527a38e9682687ccb38b7365b1893d0d5ee80247e75470d49dc2a106bb2f"
+    },
+    {
+      "path": "files/level-3.pdf",
+      "bytes": 1058905,
+      "sha256": "9eb7038f8725b451b6de2b7c2438e4cbae385bd676d15deaac9f93d08e420d2b"
+    },
+    {
+      "path": "files/out_level-3_0-example.txt",
+      "bytes": 846,
+      "sha256": "22fef8fa63b2a65bf59c1a1f9489fd65ec38915e98ef0270bd3812199ebfdfd5"
+    }
+  ],
+  "statements": [
+    {
+      "pdf": "files/level-3.pdf",
+      "text": "statements/level-3.pdf.txt",
+      "sha256": "b9aae1fcf4f926b2872e54d2dd7fac4e12f8a40a9691ca974e56e5657afc711d",
+      "note": "Full text; page breaks preserved. Inspect PDF diagrams separately."
+    }
+  ],
+  "sample_pairs": [
+    {
+      "input": "files/in_level-3_0-example.txt",
+      "expected": "files/out_level-3_0-example.txt"
+    }
+  ],
+  "inputs": [
+    "files/in_level-3_0-example.txt",
+    "files/in_level-3_1-small.txt",
+    "files/in_level-3_2-medium.txt",
+    "files/in_level-3_3-large.txt",
+    "files/in_level-3_4-enormous.txt"
+  ],
+  "warnings": []
+}
