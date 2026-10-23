@@ -1,0 +1,3 @@
+cases/*/*.txt -diff
+best/*.txt -diff
+submissions/**/*.txt -diff
