@@ -1,0 +1,21 @@
+capital pools ['B', 'Ca', 'Cr', 'Cu', 'Mg', 'Na', 'Ni'] activated reactions 34
+{"case": 1, "bound": 1359.89449, "model": 1361.005619998854, "cost": 1458, "steps": 563}
+{"case": 2, "bound": 802.34593, "model": 803.00112, "cost": 842, "steps": 114}
+{"case": 3, "bound": 384.81109, "model": 427.00181, "cost": 494, "steps": 188}
+{"case": 4, "bound": 821.53732, "model": 822.0023000010663, "cost": 933, "steps": 237}
+{"case": 5, "bound": 520.93452, "model": 521.002, "cost": 539, "steps": 202}
+{"case": 6, "bound": 2256.82315, "model": 2259.0046900000025, "cost": 2301, "steps": 472}
+{"case": 7, "bound": 2095.36815, "model": 2097.0045599999967, "cost": 2141, "steps": 458}
+{"case": 8, "bound": 1160.5046, "model": 1165.0045700000094, "cost": 1327, "steps": 463}
+{"case": 9, "bound": 1322.20611, "model": 1326.0054200000009, "cost": 1431, "steps": 556}
+{"case": 10, "bound": 686.6685399999999, "model": 687.00167, "cost": 792, "steps": 168}
+{"case": 11, "bound": 1799.67435, "model": 1800.00773, "cost": 1977, "steps": 780}
+{"case": 12, "bound": 990.6697899999999, "model": 994.00313, "cost": 1107, "steps": 316}
+{"case": 13, "bound": 569.58049, "model": 763.00153, "cost": 851, "steps": 168}
+{"case": 14, "bound": 1601.65254, "model": 1606.00507, "cost": 1761, "steps": 522}
+{"case": 15, "bound": 1771.91276, "model": 1773.00353, "cost": 1815, "steps": 356}
+{"case": 16, "bound": 849.70101, "model": 850.00442, "cost": 943, "steps": 448}
+{"case": 17, "bound": 546.0020100010009, "model": 546.0020100010009, "cost": 631, "steps": 208}
+{"case": 18, "bound": 1287.0023699999165, "model": 1287.0023699999165, "cost": 1329, "steps": 240}
+{"case": 19, "bound": 849.3358, "model": 850.0024300000003, "cost": 976, "steps": 245}
+{"case": 20, "bound": 1702.00701, "model": 1706.006899999989, "cost": 1851, "steps": 695}

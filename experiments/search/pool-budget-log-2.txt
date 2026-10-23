@@ -1,0 +1,16 @@
+capital pools ['Ca', 'Fe', 'Mn', 'Na', 'Pt', 'S'] activated reactions 31
+{"case": 1, "bound": 519.66751, "model": 520.00104, "cost": 586, "steps": 105}
+{"case": 2, "bound": 986.3235900000001, "model": 988.0010000000007, "cost": 1108, "steps": 102}
+{"case": 3, "bound": 1484.00134, "model": 1484.00134, "cost": 1548, "steps": 137}
+{"case": 4, "bound": 1375.3345800000002, "model": 1376.00126, "cost": 1468, "steps": 129}
+{"case": 5, "bound": 1086.66836, "model": 1088.0017, "cost": 1116, "steps": 173}
+{"case": 6, "bound": 730.30987, "model": 732.00067, "cost": 848, "steps": 68}
+{"case": 7, "bound": 1396.3621300000002, "model": 1422.00176, "cost": 1666, "steps": 182}
+{"case": 8, "bound": 875.1940354999999, "model": 878.0005900000001, "cost": 926, "steps": 61}
+{"case": 9, "bound": 1766.08726, "model": 1798.002130000023, "cost": 2048, "steps": 218}
+{"case": 10, "bound": 1144.2979, "model": 1146.0015100000005, "cost": 1188, "steps": 153}
+{"case": 11, "bound": 1711.70619, "model": 1720.0015100006246, "cost": 1820, "steps": 156}
+{"case": 12, "bound": 1979.20269, "model": 1980.00263, "cost": 2270, "steps": 265}
+{"case": 13, "bound": 2389.27401, "model": 2392.00349, "cost": 2760, "steps": 352}
+{"case": 14, "bound": 1355.05464, "model": 1430.0013099999996, "cost": 1448, "steps": 132}
+{"case": 15, "bound": 771.05247, "model": 790.00132, "cost": 838, "steps": 135}

@@ -1,0 +1,11 @@
+startup constraints 0
+{"case": 1, "bound": 2048.0016, "model": 2048.0016, "cost": 2660, "steps": 159}
+{"case": 2, "bound": 2069.77306, "model": 2080.0020399998393, "cost": 2692, "steps": 204}
+{"case": 3, "bound": 2984.00389, "model": 2984.00389, "cost": 3804, "steps": 391}
+{"case": 4, "bound": 2809.02236, "model": 2814.002710000002, "cost": 3458, "steps": 272}
+{"case": 5, "bound": 2968.00238, "model": 2968.00238, "cost": 3600, "steps": 237}
+{"case": 6, "bound": 1834.81658, "model": 1842.00176, "cost": 2482, "steps": 177}
+{"case": 7, "bound": 2298.001929999998, "model": 2298.001929999998, "cost": 2870, "steps": 192}
+{"case": 8, "bound": 1300.71585, "model": 1306.00136, "cost": 1938, "steps": 137}
+{"case": 9, "bound": 1534.0801700000002, "model": 1540.0010899999859, "cost": 2160, "steps": 110}
+{"case": 10, "bound": 1484.00119, "model": 1484.00119, "cost": 2084, "steps": 118}

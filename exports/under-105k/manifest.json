@@ -1,0 +1,31 @@
+{
+  "run_id": "b5183f2f2a8446008bac737879414355",
+  "submitted": false,
+  "outputs": [
+    {
+      "input": "files/in_level-3_1-small.txt",
+      "artifact": "local-levels/level-3/exports/under-105k/output-1.txt",
+      "sha256": "837c1ed5d3bae5fe60f9739e79fab2b7c01e9f3b86d38ca088f211b3f49e9f94",
+      "bytes": 62531
+    },
+    {
+      "input": "files/in_level-3_2-medium.txt",
+      "artifact": "local-levels/level-3/exports/under-105k/output-2.txt",
+      "sha256": "869aea077d94230068605e4b9bb25eeaad3df99393366d4f0201cac727e979b2",
+      "bytes": 80700
+    },
+    {
+      "input": "files/in_level-3_3-large.txt",
+      "artifact": "local-levels/level-3/exports/under-105k/output-3.txt",
+      "sha256": "d5506d24c9191fd2896521061a91c1a767c74c7b83b54c17b274547666add2f5",
+      "bytes": 234772
+    },
+    {
+      "input": "files/in_level-3_4-enormous.txt",
+      "artifact": "local-levels/level-3/exports/under-105k/output-4.txt",
+      "sha256": "a73d170a3e8c14acc8ee3782ada950fc88161aede6527a9ad4a8849588760ecc",
+      "bytes": 324545
+    }
+  ],
+  "note": "Map inputs to authoritative live upload IDs; export is not acceptance."
+}

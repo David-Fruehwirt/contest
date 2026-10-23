@@ -1,0 +1,21 @@
+capital pools ['Al', 'B', 'Ca', 'Mg', 'Na', 'Pd', 'Pt', 'Sn', 'Ti', 'V'] activated reactions 52
+{"case": 1, "bound": 1744.0643599999999, "model": 1748.00785, "cost": 1943, "steps": 795}
+{"case": 2, "bound": 1631.34286, "model": 1634.0066200000017, "cost": 1910, "steps": 675}
+{"case": 3, "bound": 1613.67106, "model": 1710.00462, "cost": 1719, "steps": 463}
+{"case": 4, "bound": 915.50249, "model": 918.00303, "cost": 1039, "steps": 306}
+{"case": 5, "bound": 1738.50689, "model": 3691.00301, "cost": 3691, "steps": 301}
+{"case": 6, "bound": 2107.15892, "model": 2111.0067, "cost": 2133, "steps": 671}
+{"case": 7, "bound": 741.55007, "model": 744.00219, "cost": 910, "steps": 228}
+{"case": 8, "bound": 2268.16408, "model": 5589.00572, "cost": 5590, "steps": 572}
+{"case": 9, "bound": 655.3301767311968, "model": 689.0020000000047, "cost": 838, "steps": 211}
+{"case": 10, "bound": 432.17005, "model": 1049.00116, "cost": 1114, "steps": 121}
+{"case": 11, "bound": 1599.36529, "model": 3675.00377, "cost": 3676, "steps": 377}
+{"case": 12, "bound": 783.57505, "model": 787.0034600000039, "cost": 947, "steps": 352}
+{"case": 13, "bound": 2036.9163, "model": 5132.00414, "cost": 5108, "steps": 414}
+{"case": 14, "bound": 1597.67337, "model": 1599.0063500000006, "cost": 2208, "steps": 660}
+{"case": 15, "bound": 1282.78447, "model": 1579.00421, "cost": 1582, "steps": 421}
+{"case": 16, "bound": 834.64509, "model": 915.0027, "cost": 1104, "steps": 281}
+{"case": 17, "bound": 390.57315, "model": 881.00117, "cost": 857, "steps": 140}
+{"case": 18, "bound": 1921.21312, "model": 5233.00609, "cost": 5231, "steps": 609}
+{"case": 19, "bound": 1085.1191804316547, "model": 1089.00393, "cost": 1198, "steps": 398}
+{"case": 20, "bound": 1021.66722, "model": 1026.00335, "cost": 1229, "steps": 347}
