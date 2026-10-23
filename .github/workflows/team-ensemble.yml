@@ -5,6 +5,9 @@ on:
     paths: ['team/**']
   pull_request:
     paths: ['team/**']
+concurrency:
+  group: team-ensemble
+  cancel-in-progress: false
 permissions:
   contents: write
 jobs:
@@ -28,4 +31,4 @@ jobs:
           cat LEADERBOARD.md >> "$GITHUB_STEP_SUMMARY"
           git config user.name "ensemble-bot"; git config user.email "ensemble-bot@users.noreply.github.com"
           git add best LEADERBOARD.md ensemble
-          git diff --cached --quiet || git commit -m "ensemble: $(grep -o 'Ensemble total: [0-9]*' LEADERBOARD.md)" && git push
+          git diff --cached --quiet || git commit -m "ensemble: $(grep -o 'Ensemble total: [0-9]*' LEADERBOARD.md)" && git pull --rebase origin main && git push
