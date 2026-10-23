@@ -2,7 +2,7 @@
 
 Per-case best across all submissions. `wins` = cases where that submission is strictly cheapest.
 
-**Ensemble total: 102850**
+**Ensemble total: 102836**
 
 ## 1-small: ensemble 26804
 
@@ -18,11 +18,11 @@ Per-case best across all submissions. `wins` = cases where that submission is st
 | laurenz/out_level-3_2-medium.txt | 20960 | 15/15 | 11 |
 | david-fruehwirt/out_level-3_2-medium.txt | 21314 | 15/15 | 0 |
 
-## 3-large: ensemble 24768
+## 3-large: ensemble 24754
 
 | submission | total | valid cases | wins |
 |---|---|---|---|
-| laurenz/out_level-3_3-large.txt | 24768 | 20/20 | 7 |
+| laurenz/out_level-3_3-large.txt | 24754 | 20/20 | 10 |
 | david-fruehwirt/out_level-3_3-large.txt | 24848 | 20/20 | 0 |
 
 ## 4-enormous: ensemble 30318
